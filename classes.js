@@ -128,8 +128,9 @@ function statyk() {
             count++;
         }
     }
-    console.log(n1.visoButu());
     console.log(n1.laiptines);
+    console.log(n1.butuSkaicius);
+    console.log(n1.butai);
 }
 
 function apgyvendink() {
